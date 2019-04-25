@@ -1,4 +1,7 @@
 {
+  "name": "pherserk/light-type-guesser",
+  "description": "A lightweight php library for mime type guessing that does not require additional extensions",
+  "license": "MIT",
   "require": {
     "php": "7.3.4",
     "ext-json": "*",
