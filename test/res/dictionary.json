@@ -1,0 +1,5 @@
+[
+  {"signature": "AA", "mimeType": "foo-bar/baz"},
+  {"signature": "AAAAAAAA00", "mimeType": "foo-bar/baz-2;charset=UTF-8"},
+  {"signature": "FFD8FFE0", "mimeType": "image/jpeg"}
+]
